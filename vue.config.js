@@ -1,7 +1,6 @@
 module.exports = {
-    publicPath: "/vcgs_forum/",
+    publicPath: ".",
     productionSourceMap: process.env.NODE_ENV != 'production',
-    outputDir: "docs",
     configureWebpack: {
       optimization: {
         splitChunks: false
