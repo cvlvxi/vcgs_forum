@@ -6,7 +6,7 @@
 
 <script>
 import "reveal.js/dist/reveal.css";
-import "reveal.js/dist/theme/beige.css";
+import "reveal.js/dist/theme/solarized.css";
 import RevealHighlight from "reveal.js/plugin/highlight/highlight.js";
 import RevealMarkdown from "reveal.js/plugin/markdown/markdown.js";
 import RevealNotes from "reveal.js/plugin/notes/notes.js";
