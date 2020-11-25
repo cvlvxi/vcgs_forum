@@ -10,29 +10,29 @@
 
 
     <section>
-      <h3> What are you grateful for? </h3>
       <img src="./images/dz.jpg"/>
+      <h3> What are you grateful for? </h3>
       <p class="medium"><em>
 "Grateful for coffee takeaways still being sold at cafes, keeps the business running and gives me a boost of caffeine in the morning"
 </em></p>
     </section>
     <Slide5/>
     <section>
-      <h3> What are you grateful for? </h3>
       <img src="./images/ci.jpg"/><br/>
+      <h3> What are you grateful for? </h3>
       <p class="medium"><em>"I'm grateful for being constantly intrigued and being able to endlessly learn new things whether it be in programming, stats, or biology...</em></p>
     </section>
     <Slide9/>
     <section>
-      <h3> What are you grateful for? </h3>
       <img src="./images/mt.jpg"/><br/>
+      <h3> What are you grateful for? </h3>
       <p class="medium"><em>"I suppose the increased work flexibility given the back problems I was having. <br/>
     I discovered + learned - how to play tennis in the local park without a court - and to play left handed!"</em></p>
     </section>
     <Slide4/>
     <section>
-      <h3> What are you grateful for? </h3>
       <img src="./images/ss.jpg"/>
+      <h3> What are you grateful for? </h3>
       <p class="medium"><em>"I am grateful that our team really responded well to moving remote - despite it being pretty tough for some of us, everyone held up and really kept up the work doing what needed to be done to keep things running"</em></p>
     </section>
     <Slide3/>
