@@ -39,6 +39,7 @@
     <section>
       <h3> Good job all 🎉 </h3>
       <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif"/>
+      <h3> Let's get through this together! </h3>
     </section>
   </div>
 </template>
