@@ -1,7 +1,8 @@
 <template>
     <section>
       <section>
-          <h3> ☕ Coffee ☕ </h3>
+          <h3> ☕ Coffee Discovery ☕ </h3>
+          <p class="small"> Something discovered that you can use to take forward into the future</p>
       </section>
       <section>
         Cup of Coffee = $4.00
