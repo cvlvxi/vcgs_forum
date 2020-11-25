@@ -19,7 +19,7 @@
     <section>
       <img src="./images/ci.jpg"/><br/>
       <h3> What are you grateful for? </h3>
-      <p class="medium"><em>"I'm grateful for being constantly intrigued and being able to endlessly learn new things whether it be in programming, stats, or biology...</em></p>
+      <p class="medium"><em>"I'm grateful for being able to learn new things constantly + my cat!"</em></p>
     </section>
     <Slide9/>
     <section>

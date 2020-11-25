@@ -1,9 +1,7 @@
 <template>
     <section>
-    <h3> Learning new things! </h3>
-<iframe width="100%" height="500" frameborder="0"
-  src="https://observablehq.com/embed/@cvlvxi/random-words-related-to-field?cell=chart"></iframe>
-  <p class="medium"> Something that got me through covid was constantly learning new things! </p>
+    <h3> 🐱 A cat! 🐱 </h3>
+    <img height="500" width="600" src="https://imgur.com/9zE0MQv.png"/>
     </section>
 </template>
 
