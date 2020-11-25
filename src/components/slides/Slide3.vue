@@ -1,12 +1,8 @@
 <template>
     <section>
-      HERE IS SOME TEXT
-      <iframe
-        width="100%"
-        height="800"
-        frameborder="0"
-        src="https://observablehq.com/embed/@cvlvxi/brushable-scatterplot?cell=viewof+selection"
-      ></iframe>
+      <h3> VCGS + COVID-19 Timeline </h3>
+<iframe width="100%" height="494" frameborder="0"
+  src="https://observablehq.com/embed/@cvlvxi/victorian-covid-timeline?cell=chart"></iframe>
     </section>
 </template>
 

@@ -8,16 +8,12 @@ or
 yarn build
 ```
 
-# http-server
-```
-http-server -p [PORT]
-```
-
 # Site
 
-[DOMAIN]:[PORT]/index.html
+```
+cd dist/
+npx http-server -p 6006
+```
 
-e.g.
-
-[127.0.0.1:8000/index.html](127.0.0.1:8000/index.html)
+[http://vcgsdev.mcri.edu.au:6006](http://vcgsdev.mcri.edu.au:6006)
 
