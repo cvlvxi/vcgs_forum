@@ -14,7 +14,7 @@
         5x Days you have coffee = $40.00
       </section>
       <section>
-        52x Weeks of Coffee (1040 coffees) = <span class="red">$2080.00</span>
+        52x Weeks of Coffee (520 coffees) = <span class="red">$2080.00</span>
       </section>
       <section>
         Moka Pot = $104.95 at Myers <br/>
@@ -24,13 +24,13 @@
         Coffee Beans 1kg = $60 = 120 cups of coffee
       </section>
       <section>
-        How many 1kg coffee bags needed per year?<br/> = 1040 / 120 = 8.6 = 9 bags
+        How many 1kg coffee bags needed per year?<br/> = 520 / 120 = 8.6 = 5 bags
       </section>
       <section>
-        9 bags * $60 + 104.95 =  <span class="green">$644.95</span>
+        5 bags * $60 + 104.95 =  <span class="green">$404.95</span>
       </section>
       <section>
-        You will save: $2080.00 - $644.95 = <span class="green">$1435.05</span>
+        You will save: $2080.00 - $644.95 = <span class="green">$1675.05</span>
       </section>
     </section>
 </template>
