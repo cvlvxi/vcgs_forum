@@ -9,6 +9,12 @@
     <Slide3/>
     <Slide10/>
     <section>
+      <img src="./images/ss.jpg"/>
+     <h3> CBU Acheivements </h3> 
+     <p class="medium"><em>"One of the most important things we’ve done has been getting ECS/MM live, with much of the scale up happening during COVID. <br/>A big part of that has been that the bioinformatic implementation really held up well in the end."</em></p>
+
+    </section>
+    <section>
       <img src="./images/dz.jpg"/>
       <h3> What are you grateful for? </h3>
       <p class="medium"><em>

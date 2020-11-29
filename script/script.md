@@ -1,4 +1,22 @@
+# VCGS Forum 
+<!-- vscode-markdown-toc -->
+* [Slide 1](#Slide1)
+* [Slide 2](#Slide2)
+* [Slide 3](#Slide3)
+* [Slide 4](#Slide4)
+* [Slide 5](#Slide5)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+## <a name='Slide1'></a>Slide 1
+
 Hi all, My name's Chris and I'll be presenting on behalf of the Clinical Bioinformatics Unit.
+
+## <a name='Slide2'></a>Slide 2
 
 So, here we are, faces and all.
 
@@ -7,8 +25,11 @@ Firstly our fearless leader, Dr Simon Sadedin and then the rest of us... the 3 b
 What do we do? As the Clinicians Bioinformaticians in VCGS, we generally are glued to our screens, coding applications and producing data that is used within our diagnostic services.
 Here is an actual screenshot of our team in a recent zoom call.
 
+## <a name='Slide3'></a>Slide 3
 
 It's been a long year. Or a short one? Time is confusing. But looking at this timeline, it's interesting to see how quickly and effectively we all transitioned from working on site to working from home and for the most part it's been Business as Usual.
+
+## <a name='Slide4'></a>Slide 4 
 
 CBU has been hard at work on many things. 
 From supporting Genomic data analysis for our services,
@@ -19,8 +40,12 @@ automation and integration with Gitlab and LIMS
 to creating new pipelines such as the Mitochondrial Pieline...
 These are some of the things we've been working hard on...
 
+## <a name='Slide5'></a>Slide 5
+
 To quote Simon..."One of the most important things we’ve done has been getting MM live, with much of the scale up happening during COVID.
 A big part of that has been that the bioinformatic implementation really held up well in the end."
+
+## Slide 6
 
 I then asked my team what they've been grateful for during this covid period.
 
@@ -30,7 +55,7 @@ Working from home I have discovered some facts about MY coffee consumption.
 If you take a look at my breakdown...
 Buying 2 cups of coffee a day can get a little pricey...
 But I have a solution: Home made coffee...
-With this strategy i'll be saving millions.
+With this strategy i'll be saving lots of money!
 
 I have been grateful to be constantly learn new things in this field with the assistance of my much loved feline companion...
 
