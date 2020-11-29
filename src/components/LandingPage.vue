@@ -11,7 +11,7 @@
     <section>
       <img src="./images/ss.jpg"/>
      <h3> CBU Acheivements </h3> 
-     <p class="medium"><em>"One of the most important things we’ve done has been getting ECS/MM live, with much of the scale up happening during COVID. <br/>A big part of that has been that the bioinformatic implementation really held up well in the end."</em></p>
+     <p class="medium"><em>"One of the most important things we’ve done has been getting ECS/MM live,<br/> with much of the scale up happening during COVID. <br/>A big part of that has been that the bioinformatic implementation really held up well in the end."</em></p>
 
     </section>
     <section>
@@ -38,7 +38,7 @@
     <section>
       <img src="./images/ss.jpg"/>
       <h3> What are you grateful for? </h3>
-      <p class="medium"><em>"I am grateful that our team really responded well to moving remote. <br/>Despite it being pretty tough for some of us, everyone held up and really kept up the work doing what needed to be done to keep things running"</em></p>
+      <p class="medium"><em>"I am grateful that our team really responded well to moving remote. <br/>Despite it being pretty tough for some of us,<br/>everyone held up and really kept up the work<br/> doing what needed to be done to keep things running"</em></p>
     </section>
     <section>
       <h3> Good job all 🎉 </h3>
